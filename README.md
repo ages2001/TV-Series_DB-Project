@@ -1,1 +1,1 @@
-# TV-Series_DB-Project
+# TV Series Database Project with MySQL
